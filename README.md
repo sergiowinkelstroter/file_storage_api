@@ -14,7 +14,7 @@ Tutorial apresentado [nesse vídeo](https://youtu.be/b6kvS1Wszew?si=BAFcEpAqP6Pw
 - Clonar repositório git:
 
 ```
-git clone https://github.com/giuliana-bezerra/file-storage-api.git
+git clone https://github.com/sergiowinkelstroter/file_storage_api.git
 ```
 
 - Construir o projeto:
